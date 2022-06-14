@@ -10,10 +10,11 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func roseWrongOne(_ sender: Any) {
-        var textPlace = "Wrong!"
-        if let newTitle = textPlace.text{
-            label.text = newTitle
-        }
+      //  var textPlace = "Wrong!"
+        //if let newTitle = textPlace.text{
+          //  label.text = newTitle
+        //}
+        
     }
     
     override func viewDidLoad() {
